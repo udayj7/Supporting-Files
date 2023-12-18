@@ -1,0 +1,12 @@
+<properties>
+		<java.version>17</java.version>
+		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
+	</properties>
+
+
+  ****************************************************************************
+
+
+<build>
+		 <finalName>Forgot-User-Registration-And-Login-WithoutRoles-App</finalName>
+</build>
